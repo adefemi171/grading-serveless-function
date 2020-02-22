@@ -1,0 +1,19 @@
+{
+    "gradings": [
+        {
+            "studentID": 1,
+            "studentName": "Student 1",
+            "score": 23
+        },
+        {
+            "studentID": 3,
+            "studentName": "Student 2",
+            "score": 45
+        },
+        {
+            "studentID": 18,
+            "studentName": "Student 3",
+            "score": 55
+        }
+    ]
+}
